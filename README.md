@@ -1,4 +1,4 @@
-#Different Techniqes used for 
+#Different Techniques used for 
 For Server-to-Client Communication
  
 #HTTP Long Polling:
